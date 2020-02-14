@@ -12,11 +12,16 @@ docker push 06210621/cat_and_dog_classification_using_keras:latest
 
 In this project i used base64 concept so that uploaded image will not save on server and didnot consume space on server
 
-For running this code clone this repo
+For running this code clone this repo and run 
 
-and run docker-compose.yml in your terminal
+export FLASK_APP=predict_app.py 
 
-docker-compose up docker-compose build
+
+
+flask run --host=0.0.0.0
+
+
+
 
 Dowload weights and create a models dir and put that model inside it 
 
