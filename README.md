@@ -25,10 +25,10 @@ Download Link
 
 
 
-[Screenshot from 2020-02-14 21-00-43](https://user-images.githubusercontent.com/45600643/74545047-36a4fa80-4f6e-11ea-8360-e0c0a6738df3.png)
+![Screenshot from 2020-02-14 21-00-43](https://user-images.githubusercontent.com/45600643/74545047-36a4fa80-4f6e-11ea-8360-e0c0a6738df3.png)
 
 
-!
+
 ![Screenshot from 2020-02-14 21-00-50](https://user-images.githubusercontent.com/45600643/74545075-41f82600-4f6e-11ea-9789-d3b73afabb78.png)
 
 
