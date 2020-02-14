@@ -26,7 +26,7 @@ flask run --host=0.0.0.0
 Dowload weights and create a models dir and put that model inside it 
 
 Model weights 
-Download Link
+Download Link https://drive.google.com/open?id=16WNDNm3lnXeGS2NfQvgt17j61MzwPkNs
 
 
 
